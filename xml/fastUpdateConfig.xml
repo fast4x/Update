@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<fastUpdateConfig>
+    <AppName>TestAppName</AppName>
+    <AppDesc>TestAppDesc</AppDesc>
+    <AppVersLocal>0.0.0.0</AppVersLocal>
+    <AppIcon>icon.png</AppIcon>
+    <AppUrlChk>http//urltoyoursite/updatepagename.xml</AppUrlChk>
+</fastUpdateConfig>
+

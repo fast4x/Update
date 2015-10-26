@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<fastUpdateConfig>
+    <CompanyName>NomeAzienda</CompanyName>
+    <CompanyWebsite>http://www.companysiteurl.com</CompanyWebsite>
+    <AppName>TestAppNameLocal</AppName>
+    <AppDesc>TestAppDescLocal</AppDesc>
+    <AppVersLocal>0.0.0.1</AppVersLocal>
+    <AppIcon>icon.png</AppIcon>
+    <AppUrlChk>http://www.fasttools.it/fastupdate/fastUpdateRemoteConfig.xml</AppUrlChk>
+</fastUpdateConfig>
+

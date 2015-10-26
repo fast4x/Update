@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/lib/codetyphon/fpc/bin/x86_64-linux/fpc" Date="1382345857"/>
+  <Params Value=" -MObjFPC -Scgi -O2 -g -Xs -XX -vewnhi -Fl/opt/gnome/lib -Fu/usr/lib/codetyphon/typhon/components/pl_LazSolutions/lib/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/components/synedit/design/units/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/components/pl_LNet/lib/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/components/pl_Indy/lib/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/components/ideintf/units/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/components/synedit/units/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/components/lazcontrols/lib/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/lcl/units/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/lcl/units/x86_64-linux -Fu/usr/lib/codetyphon/typhon/components/pl_Synapse/lib/x86_64-linux/gtk2 -Fu/usr/lib/codetyphon/typhon/components/lazutils/lib/x86_64-linux -Fu/usr/lib/codetyphon/typhon/packager/units/x86_64-linux -Fu/home/rino/FAST/Update/ -l -dLCL -dLCLgtk2 Update_x64.lpr"/>
+</CONFIG>
